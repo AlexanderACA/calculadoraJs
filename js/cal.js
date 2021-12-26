@@ -1,4 +1,4 @@
-const botonNumeros = document.getElementsByName('data-number');
+const botonNumeros = document.getElementsByName('data-number'); /* data-number es classs */
 const botonOpera = document.getElementsByName('data-opera');
 const botonIgual = document.getElementsByName('data-igual')[0];
 const botonDelete = document.getElementsByName('data-delete')[0];
